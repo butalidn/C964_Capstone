@@ -12,7 +12,7 @@ A combination of advanced metrics and basic basketball statistics were analyzed 
 
 After an improved model was created, the model was evaluated using mean absolute error, mean squared error, coefficient of determination score, and mean absolute percentage error. The model found *games started, player efficiency rating, and value over replacement player* to be the top three features that contribute to a player's salary. The r-squared value of the improved model, however, was only a **0.473** which is not a strong enough correlation to make any definitive claims. Areas of improvement include: more relevant data, incorporating inflation between years, larger data sets, a different base model, different hyperparameters and many more. No cloud computing was utilized during this project so that could also be incorporated.
 
-Once the model was completed, a web application was created using Heroku, a cloud hosting platform. The application includes the original dashboard of the Jupyter Notebook and the ability to input different statistics for the model to determine a NBA salary from. 
+Once the model was completed, a web application was created using Heroku, a cloud hosting platform. The application includes the original dashboard of the Jupyter Notebook and the ability to determine a hypothetical player's salary based on statistics the user can input. 
 
 [Link](https://butalid-c964.herokuapp.com/) for the web app.
 **Warning: the web app takes a minute or two to start up**
