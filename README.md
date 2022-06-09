@@ -2,7 +2,7 @@
 
 This project was the final project of my WGU degree. The purpose of the project was to develop a machine learning solution to solve a business problem. A formal proposal was written to describe the product and its implementation and is included in this repo. 
 
-Click here for the original [Jupyter Notebook file](https://github.com/butalidn/C964_Capstone/blob/main/NBA%20Machine%20Learning%20Project.ipynb)
+Click [here]((https://github.com/butalidn/C964_Capstone/blob/main/NBA%20Machine%20Learning%20Project.ipynb)) for the original Jupyter Notebook file
 
 The business problem I attempted to solve was how to better optimize a NBA team's cap space. The application aimed to solve this issue by using machine learning to determine a player's monetary value based on their given stats for a year. 
 
