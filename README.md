@@ -15,3 +15,4 @@ After an improved model was created, the model was evaluated using mean absolute
 Once the model was completed, a web application was created using Heroku, a cloud hosting platform. The application includes the original dashboard of the Jupyter Notebook and the ability to input different statistics for the model to determine a NBA salary from. 
 
 [Link](https://butalid-c964.herokuapp.com/) for the web app.
+**Warning: the web app takes a minute or two to start up**
