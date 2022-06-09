@@ -1,2 +1,3 @@
-# C964_Capstone
-Capstone Project for C964
+# NBA Player Salary Machine Learning Project
+
+
